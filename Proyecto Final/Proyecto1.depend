@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653919202 source:c:\users\danie\documents\curso ejemplos c\lab i\2022 c1 lunes\proyecto1\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"prueba.h"
+
+1653921445 c:\users\danie\documents\curso ejemplos c\lab i\2022 c1 lunes\proyecto1\funciones.h
+
+1653921445 c:\users\danie\documents\curso ejemplos c\lab i\2022 c1 lunes\proyecto1\prueba.h
+
